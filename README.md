@@ -25,3 +25,9 @@ Danny wants to use the data to answer a few simple questions about his customers
 8. What is the total items and amount spent for each member before they became a member?
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+**Solution**
+
+1. What is the total amount each customer spent at the restaurant?
+
+<img width="433" alt="Screen Shot 2022-07-02 at 2 25 01 pm" src="https://user-images.githubusercontent.com/108335477/176986432-ca335274-a187-4c6d-87ae-7b9221597c95.png">
