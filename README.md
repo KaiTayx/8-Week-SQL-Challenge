@@ -1,5 +1,6 @@
 # 8-Week-SQL-Challenge
 This repository contains case studies crafted from https://8weeksqlchallenge.com/
+Tool Used: PgAmin 4
 
 **Case Study #1: Danny's Diner**
 
