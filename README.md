@@ -31,3 +31,8 @@ Danny wants to use the data to answer a few simple questions about his customers
 1. What is the total amount each customer spent at the restaurant?
 
 <img width="433" alt="Screen Shot 2022-07-02 at 2 25 01 pm" src="https://user-images.githubusercontent.com/108335477/176986432-ca335274-a187-4c6d-87ae-7b9221597c95.png">
+
+Thought Process:
+
+-Use SUM and GROUP BY to find out the total_sales contributed by each customer. Note here I have renamed sum as 'total_sales'.
+-Use JOIN to merge sales and menu tables as customer_id and price are from both tables.
