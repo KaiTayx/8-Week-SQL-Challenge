@@ -12,3 +12,11 @@ Danny wants to use the data to answer a few simple questions about his customers
 **Entity Relationship Diagram**
 
 ![127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8](https://user-images.githubusercontent.com/108335477/176983497-ef4193af-664b-44ea-9e62-9ffdb962ad81.png)
+
+**Case Study Questions**
+
+What is the total amount each customer spent at the restaurant?
+How many days has each customer visited the restaurant?
+What was the first item from the menu purchased by each customer?
+What is the most purchased item on the menu and how many times was it purchased by all customers?
+Which item was the most popular for each customer?
