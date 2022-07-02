@@ -35,6 +35,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 Thought Process:
 
 -Use SUM and GROUP BY to find out the total_sales contributed by each customer. Note here I have renamed sum as 'total_sales'.
+
 -Use JOIN to merge sales and menu tables as customer_id and price are from both tables.
 
 <img width="269" alt="Screen Shot 2022-07-02 at 2 37 13 pm" src="https://user-images.githubusercontent.com/108335477/176986710-6c86decd-ce1a-4db5-ad1d-1eecf833e415.png">
