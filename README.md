@@ -40,3 +40,14 @@ Thought Process:
 
 <img width="269" alt="Screen Shot 2022-07-02 at 2 37 13 pm" src="https://user-images.githubusercontent.com/108335477/176986710-6c86decd-ce1a-4db5-ad1d-1eecf833e415.png">
 
+2. How many days has each customer visited the restaurant?
+
+<img width="617" alt="Screen Shot 2022-07-02 at 2 46 45 pm" src="https://user-images.githubusercontent.com/108335477/176986902-bb2134c1-a497-4692-9c53-7b388d3bb499.png">
+
+Thought Process:
+
+-Use DISTINCT and COUNT to avoid duplicates and count the customer's visit. 
+
+<img width="263" alt="Screen Shot 2022-07-02 at 2 51 38 pm" src="https://user-images.githubusercontent.com/108335477/176986989-7a26c6d8-e18c-4ffc-aecd-8439cc7b4476.png">
+
+
