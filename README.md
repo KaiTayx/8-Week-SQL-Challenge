@@ -62,6 +62,8 @@ Thought Process:
 
 -Use COUNT number of product_id and ORDER BY most_purchased (renamed) by descending order.
 
+-Use INNER JOIN to merge both tables (note here both tables are remaned as 's' and 'm' for convenience.
+
 <img width="301" alt="Screen Shot 2022-07-03 at 4 22 09 pm" src="https://user-images.githubusercontent.com/108335477/177027746-cc1eb533-61f1-41fc-8bc5-1793f3e69a95.png">
 
 
