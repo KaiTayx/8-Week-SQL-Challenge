@@ -52,4 +52,17 @@ Thought Process:
 
 <img width="263" alt="Screen Shot 2022-07-02 at 2 51 38 pm" src="https://user-images.githubusercontent.com/108335477/176986989-7a26c6d8-e18c-4ffc-aecd-8439cc7b4476.png">
 
+**3. What was the first item from the menu purchased by each customer? (working in progress)**
+
+**4. What is the most purchased item on the menu and how many times was it purchased by all customers?**
+
+<img width="601" alt="Screen Shot 2022-07-03 at 4 22 00 pm" src="https://user-images.githubusercontent.com/108335477/177027671-0e04258d-a8d1-47ed-abc3-8aaec1c527db.png">
+
+Thought Process:
+
+-Use COUNT number of product_id and ORDER BY most_purchased (renamed) by descending order.
+
+<img width="301" alt="Screen Shot 2022-07-03 at 4 22 09 pm" src="https://user-images.githubusercontent.com/108335477/177027746-cc1eb533-61f1-41fc-8bc5-1793f3e69a95.png">
+
+
 
